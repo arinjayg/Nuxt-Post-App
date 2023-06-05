@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "title": "New Post Title UPDATED!",
+      "subtitle": "New Post Subtitle UPDATED!",
+      "content": "New Post Content UPDATED!",
+      "_id": "n9vum",
+      "createdAt": 1685940497975
+    },
+    {
+      "title": "New Post 2 Title",
+      "subtitle": "New Post 2 Subtitle",
+      "content": "New Post 2 Content",
+      "_id": "au3sd",
+      "createdAt": 1685940527618
+    },
+    {
+      "title": "New Post 3 Title",
+      "subtitle": "New Post 3 Subtitle",
+      "content": "New Post 3 Content",
+      "_id": "j3ajf",
+      "createdAt": 1685943633488
+    }
+  ]
+}
